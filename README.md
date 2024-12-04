@@ -59,7 +59,12 @@ pip install -r requirements.txt
 3. **Running the GUI Application:**  
    - The last executable cell in the notebook contains the code for the GUI application.  
    - Run this cell to launch the GUI directly within the notebook.  
-   - Input the required details in the GUI to receive house price predictions.  
+   - Input the required details in the GUI to receive house price predictions.
+  
+## UI Representation
+<img src="https://github.com/user-attachments/assets/e3640c34-07a6-4710-a422-9dd3c32c0913" alt="UI representation of the Application" width="400"/>
+
+  
 ## Contact
 
 For any questions or feedback, please contact Ritik Suri at [Ritik1704@gmail.com](mailto:Ritik1704@gmail.com).
